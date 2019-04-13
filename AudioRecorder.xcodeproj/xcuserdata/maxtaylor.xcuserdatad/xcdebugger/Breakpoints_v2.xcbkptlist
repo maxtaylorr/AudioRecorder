@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AudioRecorder/AudioRecorderViewController.swift"
+            timestampString = "576823226.574672"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "startRecording()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AudioRecorder/AudioRecorderViewController.swift"
+            timestampString = "576823226.5751719"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "AudioRecorderViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AudioRecorder.AudioRecorderViewController.audioRecorder.getter : Swift.Optional&lt;__C.AVAudioRecorder&gt;"
+                  moduleName = "AudioRecorder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maxtaylor/Documents/iOS%202/Projects/AudioRecorder/AudioRecorder/AudioRecorderViewController.swift"
+                  timestampString = "576823226.783321"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "114">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AudioRecorder.AudioRecorderViewController.audioRecorder.setter : Swift.Optional&lt;__C.AVAudioRecorder&gt;"
+                  moduleName = "AudioRecorder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maxtaylor/Documents/iOS%202/Projects/AudioRecorder/AudioRecorder/AudioRecorderViewController.swift"
+                  timestampString = "576823226.787156"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AudioRecorder.AudioRecorderViewController.audioRecorder.modify : Swift.Optional&lt;__C.AVAudioRecorder&gt;"
+                  moduleName = "AudioRecorder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maxtaylor/Documents/iOS%202/Projects/AudioRecorder/AudioRecorder/AudioRecorderViewController.swift"
+                  timestampString = "576823226.791301"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AudioRecorder.AudioRecorderViewController.audioRecorder.modify : Swift.Optional&lt;__C.AVAudioRecorder&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "AudioRecorder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maxtaylor/Documents/iOS%202/Projects/AudioRecorder/AudioRecorder/AudioRecorderViewController.swift"
+                  timestampString = "576823226.794398"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AudioRecorder.AudioRecorderViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; AudioRecorder.AudioRecorderViewController"
+                  moduleName = "AudioRecorder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maxtaylor/Documents/iOS%202/Projects/AudioRecorder/AudioRecorder/AudioRecorderViewController.swift"
+                  timestampString = "576823226.798054"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "505">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AudioRecorder.AudioRecorderViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;AudioRecorder.AudioRecorderViewController&gt;"
+                  moduleName = "AudioRecorder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maxtaylor/Documents/iOS%202/Projects/AudioRecorder/AudioRecorder/AudioRecorderViewController.swift"
+                  timestampString = "576823226.801142"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "425">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
